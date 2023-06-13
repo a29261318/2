@@ -51,3 +51,5 @@ body::after {
     background-color:#FFDFD755;
     border-radius: 100px;
     cursor: pointer;
+    display: inline-block;
+    margin: 0 40px 0;
