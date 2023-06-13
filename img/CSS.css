@@ -61,3 +61,7 @@ body::after {
 .toggle-ball {
     background:#000000;
     background: url(https://live.staticflickr.com/7169/6850715063_0e38334434.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
