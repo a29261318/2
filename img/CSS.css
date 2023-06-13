@@ -40,3 +40,7 @@ body::after {
     color: #ffffff40;
     transition: 1s linear;
 }
+.active {
+    color: #ffffffcc;
+    transition: 1s linear;
+}
