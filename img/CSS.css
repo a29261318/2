@@ -36,3 +36,7 @@ body::after {
 .toggle-button span {
     font-size: 6rem;
 }
+.inactive {
+    color: #ffffff40;
+    transition: 1s linear;
+}
