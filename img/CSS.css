@@ -81,4 +81,13 @@ body::after {
     border-radius: 0;
     transition: 1s ease-in-out;
 }
+.toggleOn {
+    transform: translateX(200px);
+    transition: 1s ease-in-out;
+}
+
+.toggleOff {
+    transform: translateX(0px);
+    transition: 1s ease-in-out;
+}
 
