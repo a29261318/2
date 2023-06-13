@@ -33,3 +33,6 @@ body::after {
     margin: 30px auto;
     width: 900px;
 }
+.toggle-button span {
+    font-size: 6rem;
+}
