@@ -47,3 +47,5 @@ body::after {
 .toggle {
     display: none;
 }
+.toggle-container {
+    background-color:#FFDFD755;
