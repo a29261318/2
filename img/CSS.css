@@ -44,3 +44,6 @@ body::after {
     color: #ffffffcc;
     transition: 1s linear;
 }
+.toggle {
+    display: none;
+}
