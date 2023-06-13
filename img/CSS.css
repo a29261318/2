@@ -77,4 +77,8 @@ body::after {
     border-radius: 100px;
     transition: 1s ease-in-out;
 }
+.square {
+    border-radius: 0;
+    transition: 1s ease-in-out;
+}
 
