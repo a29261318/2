@@ -66,4 +66,6 @@ body::after {
     background-size: cover;
     height: 180px;
     width: 180px;
+    border-radius: 50%;
+    position: absolute;
 
