@@ -26,3 +26,5 @@ body::after {
     background-color: #b0b0b6b4;
     z-index: -1;
 }
+.toggle-button {
+    display: flex;
