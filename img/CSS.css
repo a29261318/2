@@ -49,3 +49,5 @@ body::after {
 }
 .toggle-container {
     background-color:#FFDFD755;
+    border-radius: 100px;
+    cursor: pointer;
