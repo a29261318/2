@@ -16,3 +16,10 @@ body {
     height: 100vh;
     margin: 0;
 }
+body::after {
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
