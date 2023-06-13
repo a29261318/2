@@ -30,3 +30,6 @@ body::after {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 30px auto;
+    width: 900px;
+}
